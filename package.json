@@ -1,0 +1,29 @@
+{
+  "name": "osterman-portfolio",
+  "version": "1.0.0",
+  "description": "Osterman Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanosterman10/OstermanPortfolio"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Ryan Osterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanosterman10/OstermanPortfolio/issues"
+  },
+  "homepage": "https://github.com/ryanosterman10/OstermanPortfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
